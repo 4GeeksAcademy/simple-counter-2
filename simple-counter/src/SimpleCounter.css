@@ -1,0 +1,41 @@
+/* SimpleCounter.css */
+
+.counter-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  font-size: 500%;
+}
+
+.clock-img {
+  border: 100px solid black; 
+  border-radius: 0px; 
+  color: rgb(31, 29, 29);
+  margin: 0;
+}
+
+.seconds.thousands {
+  border: 100px solid black; 
+  color: rgb(13, 12, 12);
+  margin: 0;
+}
+
+.seconds.hundreds {
+  border: 100px solid black; 
+  color: rgb(32, 30, 30);
+  margin: 0;
+}
+
+.seconds.tens {
+  border: 100px solid black; 
+  color: rgb(32, 30, 30);
+  margin: 0;
+}
+
+.seconds.ones {
+  border: 100px solid black; 
+  color: rgb(32, 30, 30);
+  margin: 0;
+}
+
